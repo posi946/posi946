@@ -4,7 +4,7 @@
 
 _Software Engineering student, building one day at a time_
 
-**Babcock University · Class of 202L**
+**Babcock University · Class of 200L**
 
 </div>
 
