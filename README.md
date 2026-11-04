@@ -1,53 +1,39 @@
-<!-- Dark-locked by design: all cards are OLED black. Cyberpunk system: cyan accent, mono idiom. -->
+# Hi, I'm Mubaraq Lawal
 
-<img src="assets/banner.svg" width="100%" alt="Terminal window reading mubaraq@github: Mubaraq Lawal, software engineering student at Babcock University" />
+Software Engineering student at Babcock University (200 level) · CCNA certified
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=00E5FF&center=true&vCenter=true&width=720&height=50&lines=%3E+init+mubaraq.exe+...+ok;%3E+learning+to+build+for+the+web%2C+one+day+at+a+time;%3E+current+focus%3A+javascript+%26+python;%3E+learning+in+public+%2F%2F+committing+daily" alt="Terminal lines: init mubaraq.exe ok, learning to build for the web, current focus javascript and python, learning in public" />
-</p>
+## About
 
-<img src="assets/hr.svg" width="100%" alt="" />
+I'm at the beginning of my journey as a developer. No big claims, no shipped products yet, just consistent daily work and honest progress. I started with the fundamentals taught in school and I'm building on them every day.
 
-## $ whoami
+Every repo here is a snapshot of where I am, not where I want to be. If you're on a similar path, or you were once here too, follow along.
 
-> Software Engineering student at **Babcock University** (200 level), learning to build for the web one day at a time.
+## What I'm working with
 
-No big claims, no shipped products yet. Just consistent daily work and honest progress. I started with the fundamentals taught in school and I'm building on them every day. Every repo here is a snapshot of where I am, not where I want to be.
+- **JavaScript** - my current focus; moving from static pages to real interactivity
+- **Java** - the newest addition; learning the fundamentals
+- **Python** - the basics; enough to understand programming logic beyond the browser
+- **HTML & CSS** - the foundations; taught in school and practiced at home
+- **Git & GitHub** - getting comfortable; this profile is part of that
 
-## $ ls ~/stack
+## Certifications
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,git,github,vscode&theme=dark" alt="HTML, CSS, JavaScript, Python, Git, GitHub, VS Code" />
-</p>
+![CCNA - Cisco Certified Network Associate](https://img.shields.io/badge/CCNA-Cisco_Certified_Network_Associate-049FD9?style=flat&logo=cisco&logoColor=white)
 
-## $ cat now.txt
+CCNA: network fundamentals, IP connectivity and services, security fundamentals, and automation basics.
 
-```bash
-$ cat now.txt
-[2026-11] deepening javascript beyond classroom material
-[2026-11] turning tutorials into small, real projects
-[2026-11] reading docs first, videos second
-[2026-11] getting fluent with git & github
-$ █
-```
+<!-- When you set up your Credly badge, drop it here:
+     <a href="YOUR_CREDLY_URL"><img src="YOUR_CREDLY_BADGE_URL" width="120" alt="CCNA digital badge" /></a>
+-->
 
-## $ ./stats.sh
+## Right now
 
-<!-- snapshot pulled from the GitHub API on 2026-11-05 -->
+- learning Java alongside JavaScript
+- deepening my JavaScript beyond classroom material
+- building small projects to turn tutorials into actual skill
+- reading documentation instead of only following videos
 
-```bash
-$ gh profile --user posi946
-  joined ........ nov 2025
-  public repos .. 6
-  current stack . html / css / javascript / python
-$ _
-```
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=posi946&hide_border=true&background=000000&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&currStreakNum=F4F4F8&sideNums=C9D1D9&sideLabels=6E6E80&dates=55555F" alt="Contribution streak" />
-</p>
-
-## $ pacman -S commits
+## Watch my commits get eaten
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/posi946/posi946/output/pacman-contribution-graph-dark.svg">
@@ -55,21 +41,11 @@ $ _
   <img alt="Pac-Man eating my contribution graph" src="https://raw.githubusercontent.com/posi946/posi946/output/pacman-contribution-graph.svg">
 </picture>
 
-## $ ssh connect
+## Find me
 
-<p align="center">
-  <a href="https://github.com/posi946">
-    <img src="https://img.shields.io/badge/github-posi946-0A0A0F?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=020204" alt="GitHub: posi946" />
-  </a>
-</p>
+- GitHub: you're already here (@posi946)
+- More links coming as I build my presence
 
-Open to feedback, collabs, and messages from anyone on a similar path. More links loading as I build my presence.
+---
 
-<img src="assets/hr.svg" width="100%" alt="" />
-
-<p align="center">
-  <em>"I keep trying to improve everyday, and I do."</em>
-</p>
-<p align="center">
-  <sub>// EOF</sub>
-</p>
+*"I keep trying to improve everyday, and I do."*
