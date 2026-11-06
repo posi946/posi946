@@ -1,30 +1,12 @@
 # Hi, I'm Mubaraq Lawal
 
-Software Engineering student at Babcock University (200 level) · CCNA certified
+![Terminal-style profile card: ASCII art beside system info - macOS, Software Engineering student at Babcock University, CCNA certified, JavaScript, Java, Python, 6 repos, 16+ commits](assets/neofetch.svg)
 
 ## About
 
-I'm at the beginning of my journey as a developer. No big claims, no shipped products yet, just consistent daily work and honest progress. I started with the fundamentals taught in school and I'm building on them every day.
+I'm at the beginning of my journey as a developer. No big claims, no shipped products yet, just consistent daily work and honest progress. I started with the fundamentals taught in school and I'm building on them every day. CCNA certified, learning Java, and building for the web.
 
 Every repo here is a snapshot of where I am, not where I want to be. If you're on a similar path, or you were once here too, follow along.
-
-## What I'm working with
-
-- **JavaScript** - my current focus; moving from static pages to real interactivity
-- **Java** - the newest addition; learning the fundamentals
-- **Python** - the basics; enough to understand programming logic beyond the browser
-- **HTML & CSS** - the foundations; taught in school and practiced at home
-- **Git & GitHub** - getting comfortable; this profile is part of that
-
-## Certifications
-
-![CCNA - Cisco Certified Network Associate](https://img.shields.io/badge/CCNA-Cisco_Certified_Network_Associate-049FD9?style=flat&logo=cisco&logoColor=white)
-
-CCNA: network fundamentals, IP connectivity and services, security fundamentals, and automation basics.
-
-<!-- When you set up your Credly badge, drop it here:
-     <a href="YOUR_CREDLY_URL"><img src="YOUR_CREDLY_BADGE_URL" width="120" alt="CCNA digital badge" /></a>
--->
 
 ## Right now
 
