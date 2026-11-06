@@ -1,0 +1,23 @@
+<svg width="320" height="320" viewBox="0 0 320 320" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-label="Mubaraq Lawal's GitHub avatar inside slowly rotating terminal rings">
+  <style>
+    .avatar-in { opacity: 0; animation: fadein 0.7s cubic-bezier(0.23, 1, 0.32, 1) 0.1s forwards; }
+    .ring-a { transform-origin: 160px 160px; animation: spin 16s linear infinite; }
+    .ring-b { transform-origin: 160px 160px; animation: spin 26s linear infinite reverse; }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    @keyframes fadein { to { opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) {
+      .ring-a, .ring-b { animation: none; }
+      .avatar-in { animation: none; opacity: 1; }
+    }
+  </style>
+  <defs>
+    <clipPath id="pic"><circle cx="160" cy="160" r="88"/></clipPath>
+  </defs>
+  <g class="avatar-in">
+    <image href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAWAAAAFgCAIAAAAKAzQbAAAACXBIWXMAAAAAAAAAAQCEeRdzAAAI7ElEQVR4nO3YS4sldx3H4apz6T4zPR1IiCFqHLJVcSG4ycDMC3AjiuJ14U53ZuU7CGQRhOxc+RKyClkMZDma2QmuYrzkYrIwIU6wL+dWVf7PMAmifkkHTqW64vPQi14VP4pffepfp753714F8L/Mhh4AuLwEAogEAogEAogEAogEAogEAogEAogEAogEAogEAogEAogEAogEAogEAogEAogEAogEAogEAogEAogEAogEAogEAogEAogEAogEAogEAoh6CUTXVYsrk9ls9w99qOt6vW7Xq66uhx7lAuxD3/rbh14CUbbhxRfef+3V5fxgDPs7Qqtl99TN4xu3jlfLduhZPp596Nv9fbh249ZDe9+HXgJR3hVlG165c7JYWIhenJ601588mM2OV0NPchH2oW8f7kO1933o6xOjvCvKNhwuJn1cn6YpT109lhO7fehb2YdpP/vgR0ogEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEogRq+uhJ7iYsczJfxOID3VV03RDD3FRbdu1bbXZdNvtCGYuc3a721s1Y5h2p66mU1XbEYj7umo6qx97fD6K/S0v5OV5e/uley/f/qAax8TVdtM9cf1gNqtHMW+5q++9W6o29BiXgEDslLNDqcOzz19fr0ewFIvF5O6dk+eeefvoaDr0LBdVbuwvfvn5L37p4PIfeer7R56nf/76tizD//0xQiAe6O4v8WYMgZhMdl8WdTlIjGh9691TV27v5Q9EsRtyBGN+GgQCiAQCiAQCiAQCiAQCiAQCiAQCiAQCiAQCiAQCiAQCiAQCiAQCiAQCiAQCiAQCiAQCiAQCiAQCiAQCiAQCiAQCiAQCiAQCiAQCiAQCiAQCiAQCiAQCiAQCiAQCiAQCiAQCiAQCiAQCiAQCiAQCiAQCiAQCiAQCiAQCiAQCiAQCiAQCiAQCiAQCiAQCiAQCiAQCiAQCiAQCiAQCiAQCiAQCiATigbquFovJZNINPcjHWxzW84O6G8Gk/6arDg/rw0U93dZDj/IxynybTVdd9jE/Jb0Eojxsq2V3etI2TR+X37+27Zbn7d07J9vtCB67Uoc//XHZdeUON3U9gkUuo85m9R9+f/b2W+sRrERdtU3XbLvT03Hc3qJswmbd9TFtL4FYr7unbh5ff/KgrEUf19+7tq1uv3TvuWfeGcU+lLNDeeS+/o2jL3/1yu5dd+nN5/Xd35385td/ryejuMG7F8Zjj8+/+a2HSymGnuVCyhP3la9dXa/bvV+5n0Csuhu3jmez41Ecg8vOlsfs5dsfHB1NxnKwLG+MUofv/vBzm+3lfyNX89n0rTfXb/xltbgyGXqWCynHh+Pj6fd//Ohmu/9Hrg/l7FDqUJ67vQe4v0+MdtXHpfux+7IYQ8s+UhaiRK3U4ex0BBt89ahqmv3vbq/arjo7353bhx7kE+jjDvuREogEAogEAogEAogEAogEAogEAogEAogEAogEAogEAogEAogEAogEAogEAogEAogEAogEAogEAogEAogEAogEAogEAogEAogEAogEAogEAogEAogEAogEAogEAogEAogEAogEAogEAogEAogEAogEAogEAogEAogEAogEAogEAogEAogEAogEAogEAogEAogEAogEAogEAogEAogEAogEAoh6CUTXVYsrk9ls98/lV9fVZtNV9dBzfBJd183n9Xw2vXo09CgXUOacTutRLMNHJnV19cp0M2+HHuRC6rper9v1qqv3vca9BKLU4cUX3n/t1eX8YByPXdndZjumRpQ7fPe3J2+9uW6aETx2pQ5/fm15MJJlKCbT+t4/tr969p22HcHtLVbL7qmb127cemi13HPReglEOTuUOrxy52SxGM1OHC4mQ4/wCcxm9dt/W7/x19Xe3xh9KP0tdShP3dCDXFS5q8tl98qdf45l4tOT9vqTB+W5W+37yn19YpSzQ6nDuJ66ESl3uDSi/A09yGdWacRiPNvbNNV01stHnB8pgUgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggEgggKiXQNRV1TbVdlvNtl0f19+/uppO66GH4DLpqqYZyfZW5VnrurbqY4N7CUTbVg8/MvvCE/ODw0kf19+/rnrv3U03mn2gZ101ndWPPT4fy0acn7XXjqdtD+P2Eojz8/ZHP330J5NHR3F/S3c3m+7pn72+3XS9RJixKWeHUodnn7++Xo9ihXdr2zS7TOz9yn39BrEdy8fFfeOalk9BWYhSh81IAtEfP1ICkUAAkUAAkUAAkUAAkUAAkUAAkUAAkUAAkUAAkUAAkUAAkUAAkUAAkUAAkUAAkUAAkUAAkUAAkUAAkUAAkUAAkUAAkUAAkUAAkUAAkUAAkUAAkUAAkUAAkUAAkUAAkUAAkUAAkUAAkUAAkUAAkUAAkUAAkUAAkUAAkUAAkUAAkUAAkUAAkUAAkUAAkUAAkUAAkUAAkUAAkUAAkUAAkUAAkUAAkUBUVV1VXXV21m7WXV0PPQyXwHbbnZ+1dqESiJ2umkzrb3/vkabthh6FS6Frq2vH06YZeo5LQCB2JpPqOz94xBuDj5SXRTlEDD3F8ATigbNT2wD/SSCASCCASCCASCCASCCASCCASCCASCCASCCASCCASCCASCCASCCASCCASCCASCCASCCASCCASCCASCCASCCASCCASCCASCCASCCASCCA6F+erw8lWiBOVAAAAABJRU5ErkJggg==" x="72" y="72" width="176" height="176" clip-path="url(#pic)"/>
+    <circle cx="160" cy="160" r="88" fill="none" stroke="#00d9ff" stroke-opacity="0.35" stroke-width="1.5"/>
+  </g>
+  <circle class="ring-a" cx="160" cy="160" r="99" fill="none" stroke="#00d9ff" stroke-width="2" stroke-linecap="round" stroke-dasharray="5 17" opacity="0.9"/>
+  <circle class="ring-b" cx="160" cy="160" r="112" fill="none" stroke="#0891b2" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="2 26" opacity="0.55"/>
+  <circle cx="160" cy="160" r="124" fill="none" stroke="#00d9ff" stroke-opacity="0.18" stroke-width="1"/>
+</svg>

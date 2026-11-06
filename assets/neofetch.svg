@@ -1,48 +1,59 @@
 <svg width="1200" height="593" viewBox="0 0 1200 593" xmlns="http://www.w3.org/2000/svg" font-family="'JetBrains Mono','Fira Code','SF Mono',Menlo,Consolas,monospace" role="img" aria-label="Terminal-style profile: ASCII art beside system info for Mubaraq Lawal - macOS, Software Engineering student at Babcock University, CCNA certified, JavaScript Java Python, 6 repositories, 16+ commits">
-  <rect width="1200" height="593" fill="#0D1117"/>
-  <rect x="0.5" y="0.5" width="1199" height="592" rx="18" fill="none" stroke="#21262D"/>
-  <text x="520" y="104" font-size="20" font-weight="700" fill="#39D353" xml:space="preserve">mubaraq@github</text>
-  <line x1="520" y1="140" x2="756" y2="140" stroke="#30363D" stroke-width="1"/>
-  <text x="120" y="173.6" font-size="13.2" fill="#39D353" xml:space="preserve">                              </text>
-  <text x="120" y="187.2" font-size="13.2" fill="#39D353" xml:space="preserve">   =#+@%+@*=      %+#*=#*@%   </text>
-  <text x="120" y="200.8" font-size="13.2" fill="#39D353" xml:space="preserve">   %=*@*#+%=%     =%@*@+#=%=  </text>
-  <text x="120" y="214.4" font-size="13.2" fill="#39D353" xml:space="preserve">   +*%@=*%#=+     #@=*%@=+%#  </text>
-  <text x="120" y="228.0" font-size="13.2" fill="#39D353" xml:space="preserve">   ###@@@@@=====+++++*****%%  </text>
-  <text x="120" y="241.6" font-size="13.2" fill="#39D353" xml:space="preserve">   +=@#%     %*+=@     @#%*+  </text>
-  <text x="120" y="255.2" font-size="13.2" fill="#39D353" xml:space="preserve">   @%=#*     +@*=#     %+#*=  </text>
-  <text x="120" y="268.8" font-size="13.2" fill="#39D353" xml:space="preserve">   *@+#+%=*@*#+%=%@*#+#=%@*   </text>
-  <text x="120" y="282.4" font-size="13.2" fill="#39D353" xml:space="preserve">        +*%@=     %#@+*       </text>
-  <text x="120" y="296.0" font-size="13.2" fill="#39D353" xml:space="preserve">        ###@@     ===++       </text>
-  <text x="120" y="309.6" font-size="13.2" fill="#39D353" xml:space="preserve">   =@#%*+=@#%*+=@#%*+=@#%*+   </text>
-  <text x="120" y="323.2" font-size="13.2" fill="#39D353" xml:space="preserve">   #*@%+@%=#*=#+@%+@*=#*=%+@  </text>
-  <text x="120" y="336.8" font-size="13.2" fill="#39D353" xml:space="preserve">   +#=%=*@+#+%=*@*#+%=%@*#+#  </text>
-  <text x="120" y="350.4" font-size="13.2" fill="#39D353" xml:space="preserve">   @=+%#=+*#@+*%@=*%#=+%#@+   </text>
-  <text x="120" y="364.0" font-size="13.2" fill="#39D353" xml:space="preserve">        %%%#####@@@@@==       </text>
-  <text x="120" y="377.6" font-size="13.2" fill="#39D353" xml:space="preserve">        =@#%*+=@#%*+=@#       </text>
-  <text x="120" y="391.2" font-size="13.2" fill="#39D353" xml:space="preserve">        #*@%+@%=#*=#+@        </text>
-  <text x="120" y="404.8" font-size="13.2" fill="#39D353" xml:space="preserve">                              </text>
+  <style>
+    .rule { stroke-dasharray: 236; stroke-dashoffset: 236; animation: draw 0.7s cubic-bezier(0.23, 1, 0.32, 1) 0.3s forwards; }
+    @keyframes draw { to { stroke-dashoffset: 0; } }
+    .cursor { animation: blink 1.2s linear infinite; }
+    @keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) {
+      .rule { animation: none; stroke-dashoffset: 0; }
+      .cursor { animation: none; opacity: 1; }
+    }
+  </style>
+  <rect width="1200" height="593" fill="#0d1117"/>
+  <rect x="0.5" y="0.5" width="1199" height="592" rx="18" fill="none" stroke="#21262d"/>
+  <text x="520" y="104" font-size="20" font-weight="700" fill="#00d9ff" xml:space="preserve">mubaraq@github</text>
+  <line class="rule" x1="520" y1="140" x2="756" y2="140" stroke="#30363d" stroke-width="1"/>
+  <text x="120" y="173.6" font-size="13.2" fill="#00d9ff" xml:space="preserve">                              </text>
+  <text x="120" y="187.2" font-size="13.2" fill="#00d9ff" xml:space="preserve">   =#+@%+@*=      %+#*=#*@%   </text>
+  <text x="120" y="200.8" font-size="13.2" fill="#00d9ff" xml:space="preserve">   %=*@*#+%=%     =%@*@+#=%=  </text>
+  <text x="120" y="214.4" font-size="13.2" fill="#00d9ff" xml:space="preserve">   +*%@=*%#=+     #@=*%@=+%#  </text>
+  <text x="120" y="228.0" font-size="13.2" fill="#00d9ff" xml:space="preserve">   ###@@@@@=====+++++*****%%  </text>
+  <text x="120" y="241.6" font-size="13.2" fill="#00d9ff" xml:space="preserve">   +=@#%     %*+=@     @#%*+  </text>
+  <text x="120" y="255.2" font-size="13.2" fill="#00d9ff" xml:space="preserve">   @%=#*     +@*=#     %+#*=  </text>
+  <text x="120" y="268.8" font-size="13.2" fill="#00d9ff" xml:space="preserve">   *@+#+%=*@*#+%=%@*#+#=%@*   </text>
+  <text x="120" y="282.4" font-size="13.2" fill="#00d9ff" xml:space="preserve">        +*%@=     %#@+*       </text>
+  <text x="120" y="296.0" font-size="13.2" fill="#00d9ff" xml:space="preserve">        ###@@     ===++       </text>
+  <text x="120" y="309.6" font-size="13.2" fill="#00d9ff" xml:space="preserve">   =@#%*+=@#%*+=@#%*+=@#%*+   </text>
+  <text x="120" y="323.2" font-size="13.2" fill="#00d9ff" xml:space="preserve">   #*@%+@%=#*=#+@%+@*=#*=%+@  </text>
+  <text x="120" y="336.8" font-size="13.2" fill="#00d9ff" xml:space="preserve">   +#=%=*@+#+%=*@*#+%=%@*#+#  </text>
+  <text x="120" y="350.4" font-size="13.2" fill="#00d9ff" xml:space="preserve">   @=+%#=+*#@+*%@=*%#=+%#@+   </text>
+  <text x="120" y="364.0" font-size="13.2" fill="#00d9ff" xml:space="preserve">        %%%#####@@@@@==       </text>
+  <text x="120" y="377.6" font-size="13.2" fill="#00d9ff" xml:space="preserve">        =@#%*+=@#%*+=@#       </text>
+  <text x="120" y="391.2" font-size="13.2" fill="#00d9ff" xml:space="preserve">        #*@%+@%=#*=#+@        </text>
+  <text x="120" y="404.8" font-size="13.2" fill="#00d9ff" xml:space="preserve">                              </text>
 
-  <text x="520" y="170" font-size="15" fill="#39D353">OS:</text>
-  <text x="756" y="170" font-size="15" fill="#C9D1D9">macOS</text>
-  <text x="520" y="199" font-size="15" fill="#39D353">Kernel:</text>
-  <text x="756" y="199" font-size="15" fill="#C9D1D9">Software Engineering, Babcock (200 level)</text>
-  <text x="520" y="228" font-size="15" fill="#39D353">Uptime:</text>
-  <text x="756" y="228" font-size="15" fill="#C9D1D9">since nov 2025</text>
-  <text x="520" y="257" font-size="15" fill="#39D353">IDEs:</text>
-  <text x="756" y="257" font-size="15" fill="#C9D1D9">IntelliJ IDEA, Zed</text>
-  <text x="520" y="286" font-size="15" fill="#39D353">Languages/Programming:</text>
-  <text x="756" y="286" font-size="15" fill="#C9D1D9">JavaScript, Java, Python</text>
-  <text x="520" y="315" font-size="15" fill="#39D353">Languages/Web:</text>
-  <text x="756" y="315" font-size="15" fill="#C9D1D9">HTML, CSS</text>
-  <text x="520" y="344" font-size="15" fill="#39D353">Languages/Real:</text>
-  <text x="756" y="344" font-size="15" fill="#C9D1D9">English</text>
-  <text x="520" y="373" font-size="15" fill="#39D353">Certs:</text>
-  <text x="756" y="373" font-size="15" fill="#C9D1D9">CCNA - Cisco Certified Network Associate</text>
-  <text x="520" y="402" font-size="15" fill="#39D353">Also:</text>
-  <text x="756" y="402" font-size="15" fill="#C9D1D9">video editing</text>
+  <text x="520" y="170" font-size="15" fill="#00d9ff">OS:</text>
+  <text x="756" y="170" font-size="15" fill="#c9d1d9">macOS</text>
+  <text x="520" y="199" font-size="15" fill="#00d9ff">Kernel:</text>
+  <text x="756" y="199" font-size="15" fill="#c9d1d9">Software Engineering, Babcock (200 level)</text>
+  <text x="520" y="228" font-size="15" fill="#00d9ff">Uptime:</text>
+  <text x="756" y="228" font-size="15" fill="#c9d1d9">since nov 2025</text>
+  <text x="520" y="257" font-size="15" fill="#00d9ff">IDEs:</text>
+  <text x="756" y="257" font-size="15" fill="#c9d1d9">IntelliJ IDEA, Zed</text>
+  <text x="520" y="286" font-size="15" fill="#00d9ff">Languages/Programming:</text>
+  <text x="756" y="286" font-size="15" fill="#c9d1d9">JavaScript, Java, Python</text>
+  <text x="520" y="315" font-size="15" fill="#00d9ff">Languages/Web:</text>
+  <text x="756" y="315" font-size="15" fill="#c9d1d9">HTML, CSS</text>
+  <text x="520" y="344" font-size="15" fill="#00d9ff">Languages/Real:</text>
+  <text x="756" y="344" font-size="15" fill="#c9d1d9">English</text>
+  <text x="520" y="373" font-size="15" fill="#00d9ff">Certs:</text>
+  <text x="756" y="373" font-size="15" fill="#c9d1d9">CCNA - Cisco Certified Network Associate</text>
+  <text x="520" y="402" font-size="15" fill="#00d9ff">Also:</text>
+  <text x="756" y="402" font-size="15" fill="#c9d1d9">video editing</text>
 
-  <text x="520" y="437" font-size="15" fill="#39D353">GitHub Stats:</text>
-  <text x="544" y="466" font-size="15" fill="#C9D1D9">Repos: 6, Commits: 16+, Followers: 0 (still early)</text>
-  <text x="520" y="495" font-size="15" fill="#39D353">Contact:</text>
-  <text x="544" y="524" font-size="15" fill="#C9D1D9">GitHub: @posi946 - DMs open</text>
+  <text x="520" y="437" font-size="15" fill="#00d9ff">GitHub Stats:</text>
+  <text x="544" y="466" font-size="15" fill="#c9d1d9">Repos: 6, Commits: 16+, Followers: 0 (still early)</text>
+  <text x="520" y="495" font-size="15" fill="#00d9ff">Contact:</text>
+  <text x="544" y="524" font-size="15" fill="#c9d1d9">GitHub: @posi946 - DMs open</text>
+  <rect class="cursor" x="795" y="511" width="9" height="16" fill="#00d9ff"/>
 </svg>
