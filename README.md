@@ -4,7 +4,7 @@
 <table align="center">
   <tr>
     <td width="28%" align="center">
-      <img src="assets/avatar.svg" width="170" alt="Mubaraq Lawal's avatar inside slowly rotating terminal rings" />
+      <img src="assets/avatar.svg?v=2" width="170" alt="Mubaraq Lawal's avatar: a blinking terminal cursor inside a slowly marching dashed ring" />
     </td>
     <td width="72%" align="left">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=640&lines=terminal%3A~%24+whoami;Mubaraq+~+software+engineering+%40+babcock;java+%2B+javascript+%2B+python;status%3A+learning+in+public" alt="Typing terminal lines: whoami, Mubaraq software engineering at Babcock, java javascript python, status learning in public" />
