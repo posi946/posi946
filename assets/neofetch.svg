@@ -9,51 +9,51 @@
       .cursor { animation: none; opacity: 1; }
     }
   </style>
-  <rect width="1200" height="593" fill="#0d1117"/>
-  <rect x="0.5" y="0.5" width="1199" height="592" rx="18" fill="none" stroke="#21262d"/>
-  <text x="520" y="104" font-size="20" font-weight="700" fill="#00d9ff" xml:space="preserve">mubaraq@github</text>
-  <line class="rule" x1="520" y1="140" x2="756" y2="140" stroke="#30363d" stroke-width="1"/>
-  <text x="120" y="173.6" font-size="13.2" fill="#00d9ff" xml:space="preserve">                              </text>
-  <text x="120" y="187.2" font-size="13.2" fill="#00d9ff" xml:space="preserve">   =#+@%+@*=      %+#*=#*@%   </text>
-  <text x="120" y="200.8" font-size="13.2" fill="#00d9ff" xml:space="preserve">   %=*@*#+%=%     =%@*@+#=%=  </text>
-  <text x="120" y="214.4" font-size="13.2" fill="#00d9ff" xml:space="preserve">   +*%@=*%#=+     #@=*%@=+%#  </text>
-  <text x="120" y="228.0" font-size="13.2" fill="#00d9ff" xml:space="preserve">   ###@@@@@=====+++++*****%%  </text>
-  <text x="120" y="241.6" font-size="13.2" fill="#00d9ff" xml:space="preserve">   +=@#%     %*+=@     @#%*+  </text>
-  <text x="120" y="255.2" font-size="13.2" fill="#00d9ff" xml:space="preserve">   @%=#*     +@*=#     %+#*=  </text>
-  <text x="120" y="268.8" font-size="13.2" fill="#00d9ff" xml:space="preserve">   *@+#+%=*@*#+%=%@*#+#=%@*   </text>
-  <text x="120" y="282.4" font-size="13.2" fill="#00d9ff" xml:space="preserve">        +*%@=     %#@+*       </text>
-  <text x="120" y="296.0" font-size="13.2" fill="#00d9ff" xml:space="preserve">        ###@@     ===++       </text>
-  <text x="120" y="309.6" font-size="13.2" fill="#00d9ff" xml:space="preserve">   =@#%*+=@#%*+=@#%*+=@#%*+   </text>
-  <text x="120" y="323.2" font-size="13.2" fill="#00d9ff" xml:space="preserve">   #*@%+@%=#*=#+@%+@*=#*=%+@  </text>
-  <text x="120" y="336.8" font-size="13.2" fill="#00d9ff" xml:space="preserve">   +#=%=*@+#+%=*@*#+%=%@*#+#  </text>
-  <text x="120" y="350.4" font-size="13.2" fill="#00d9ff" xml:space="preserve">   @=+%#=+*#@+*%@=*%#=+%#@+   </text>
-  <text x="120" y="364.0" font-size="13.2" fill="#00d9ff" xml:space="preserve">        %%%#####@@@@@==       </text>
-  <text x="120" y="377.6" font-size="13.2" fill="#00d9ff" xml:space="preserve">        =@#%*+=@#%*+=@#       </text>
-  <text x="120" y="391.2" font-size="13.2" fill="#00d9ff" xml:space="preserve">        #*@%+@%=#*=#+@        </text>
-  <text x="120" y="404.8" font-size="13.2" fill="#00d9ff" xml:space="preserve">                              </text>
+  <rect width="1200" height="593" fill="#0b1220"/>
+  <rect x="0.5" y="0.5" width="1199" height="592" rx="18" fill="none" stroke="#22352b"/>
+  <text x="520" y="104" font-size="20" font-weight="700" fill="#74c69d" xml:space="preserve">mubaraq@github</text>
+  <line class="rule" x1="520" y1="140" x2="756" y2="140" stroke="#2d6a4f" stroke-width="1"/>
+  <text x="120" y="173.6" font-size="13.2" fill="#74c69d" xml:space="preserve">                              </text>
+  <text x="120" y="187.2" font-size="13.2" fill="#40916c" xml:space="preserve">   =#+@%+@*=      %+#*=#*@%   </text>
+  <text x="120" y="200.8" font-size="13.2" fill="#40916c" xml:space="preserve">   %=*@*#+%=%     =%@*@+#=%=  </text>
+  <text x="120" y="214.4" font-size="13.2" fill="#40916c" xml:space="preserve">   +*%@=*%#=+     #@=*%@=+%#  </text>
+  <text x="120" y="228.0" font-size="13.2" fill="#40916c" xml:space="preserve">   ###@@@@@=====+++++*****%%  </text>
+  <text x="120" y="241.6" font-size="13.2" fill="#40916c" xml:space="preserve">   +=@#%     %*+=@     @#%*+  </text>
+  <text x="120" y="255.2" font-size="13.2" fill="#40916c" xml:space="preserve">   @%=#*     +@*=#     %+#*=  </text>
+  <text x="120" y="268.8" font-size="13.2" fill="#40916c" xml:space="preserve">   *@+#+%=*@*#+%=%@*#+#=%@*   </text>
+  <text x="120" y="282.4" font-size="13.2" fill="#40916c" xml:space="preserve">        +*%@=     %#@+*       </text>
+  <text x="120" y="296.0" font-size="13.2" fill="#40916c" xml:space="preserve">        ###@@     ===++       </text>
+  <text x="120" y="309.6" font-size="13.2" fill="#40916c" xml:space="preserve">   =@#%*+=@#%*+=@#%*+=@#%*+   </text>
+  <text x="120" y="323.2" font-size="13.2" fill="#40916c" xml:space="preserve">   #*@%+@%=#*=#+@%+@*=#*=%+@  </text>
+  <text x="120" y="336.8" font-size="13.2" fill="#40916c" xml:space="preserve">   +#=%=*@+#+%=*@*#+%=%@*#+#  </text>
+  <text x="120" y="350.4" font-size="13.2" fill="#40916c" xml:space="preserve">   @=+%#=+*#@+*%@=*%#=+%#@+   </text>
+  <text x="120" y="364.0" font-size="13.2" fill="#40916c" xml:space="preserve">        %%%#####@@@@@==       </text>
+  <text x="120" y="377.6" font-size="13.2" fill="#40916c" xml:space="preserve">        =@#%*+=@#%*+=@#       </text>
+  <text x="120" y="391.2" font-size="13.2" fill="#40916c" xml:space="preserve">        #*@%+@%=#*=#+@        </text>
+  <text x="120" y="404.8" font-size="13.2" fill="#40916c" xml:space="preserve">                              </text>
 
-  <text x="520" y="170" font-size="15" fill="#00d9ff">OS:</text>
-  <text x="756" y="170" font-size="15" fill="#c9d1d9">macOS</text>
-  <text x="520" y="199" font-size="15" fill="#00d9ff">Kernel:</text>
-  <text x="756" y="199" font-size="15" fill="#c9d1d9">Software Engineering, Babcock (200 level)</text>
-  <text x="520" y="228" font-size="15" fill="#00d9ff">Uptime:</text>
-  <text x="756" y="228" font-size="15" fill="#c9d1d9">since nov 2025</text>
-  <text x="520" y="257" font-size="15" fill="#00d9ff">IDEs:</text>
-  <text x="756" y="257" font-size="15" fill="#c9d1d9">IntelliJ IDEA, Zed</text>
-  <text x="520" y="286" font-size="15" fill="#00d9ff">Languages/Programming:</text>
-  <text x="756" y="286" font-size="15" fill="#c9d1d9">JavaScript, Java, Python</text>
-  <text x="520" y="315" font-size="15" fill="#00d9ff">Languages/Web:</text>
-  <text x="756" y="315" font-size="15" fill="#c9d1d9">HTML, CSS</text>
-  <text x="520" y="344" font-size="15" fill="#00d9ff">Languages/Real:</text>
-  <text x="756" y="344" font-size="15" fill="#c9d1d9">English</text>
-  <text x="520" y="373" font-size="15" fill="#00d9ff">Certs:</text>
-  <text x="756" y="373" font-size="15" fill="#c9d1d9">CCNA - Cisco Certified Network Associate</text>
-  <text x="520" y="402" font-size="15" fill="#00d9ff">Also:</text>
-  <text x="756" y="402" font-size="15" fill="#c9d1d9">video editing</text>
+  <text x="520" y="170" font-size="15" fill="#74c69d">OS:</text>
+  <text x="756" y="170" font-size="15" fill="#e8f0eb">macOS</text>
+  <text x="520" y="199" font-size="15" fill="#74c69d">Kernel:</text>
+  <text x="756" y="199" font-size="15" fill="#e8f0eb">Software Engineering, Babcock (200 level)</text>
+  <text x="520" y="228" font-size="15" fill="#74c69d">Uptime:</text>
+  <text x="756" y="228" font-size="15" fill="#e8f0eb">since nov 2025</text>
+  <text x="520" y="257" font-size="15" fill="#74c69d">IDEs:</text>
+  <text x="756" y="257" font-size="15" fill="#e8f0eb">IntelliJ IDEA, Zed</text>
+  <text x="520" y="286" font-size="15" fill="#74c69d">Languages/Programming:</text>
+  <text x="756" y="286" font-size="15" fill="#e8f0eb">JavaScript, Java, Python</text>
+  <text x="520" y="315" font-size="15" fill="#74c69d">Languages/Web:</text>
+  <text x="756" y="315" font-size="15" fill="#e8f0eb">HTML, CSS</text>
+  <text x="520" y="344" font-size="15" fill="#74c69d">Languages/Real:</text>
+  <text x="756" y="344" font-size="15" fill="#e8f0eb">English</text>
+  <text x="520" y="373" font-size="15" fill="#74c69d">Certs:</text>
+  <text x="756" y="373" font-size="15" fill="#e8f0eb">CCNA - Cisco Certified Network Associate</text>
+  <text x="520" y="402" font-size="15" fill="#74c69d">Also:</text>
+  <text x="756" y="402" font-size="15" fill="#e8f0eb">video editing</text>
 
-  <text x="520" y="437" font-size="15" fill="#00d9ff">GitHub Stats:</text>
-  <text x="544" y="466" font-size="15" fill="#c9d1d9">Repos: 6, Commits: 16+, Followers: 0 (still early)</text>
-  <text x="520" y="495" font-size="15" fill="#00d9ff">Contact:</text>
-  <text x="544" y="524" font-size="15" fill="#c9d1d9">GitHub: @posi946 - DMs open</text>
-  <rect class="cursor" x="795" y="511" width="9" height="16" fill="#00d9ff"/>
+  <text x="520" y="437" font-size="15" fill="#74c69d">Shipped:</text>
+  <text x="544" y="466" font-size="15" fill="#e8f0eb">ScamShield - private scam-message checker (MIT)</text>
+  <text x="520" y="495" font-size="15" fill="#74c69d">Contact:</text>
+  <text x="544" y="524" font-size="15" fill="#e8f0eb">GitHub: @posi946 - DMs open</text>
+  <rect class="cursor" x="795" y="511" width="9" height="16" fill="#d62828"/>
 </svg>

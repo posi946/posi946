@@ -1,46 +1,53 @@
 <!-- ══ header ══ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Mubaraq%20Lawal&desc=Software%20Engineering%20%E2%80%A2%20Babcock%20University%20%E2%80%A2%20CCNA&fontSize=54&fontColor=00d9ff&animation=fadeIn&color=0:0d1117,0.5:0891b2,1:06b6d4" alt="Mubaraq Lawal - Software Engineering at Babcock University - CCNA" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Mubaraq%20Lawal&desc=Software%20Engineering%20%E2%80%A2%20Babcock%20University%20%E2%80%A2%20CCNA&fontSize=54&fontColor=F4F7F5&animation=fadeIn&color=0:0B1220,0.55:14532D,1:2D6A4F" alt="Mubaraq Lawal - Software Engineering at Babcock University - CCNA" width="100%" />
 
 <table align="center">
   <tr>
     <td width="28%" align="center">
-      <img src="assets/avatar.svg?v=2" width="170" alt="Mubaraq Lawal's avatar: a blinking terminal cursor inside a slowly marching dashed ring" />
+      <img src="assets/avatar.svg?v=3" width="170" alt="Mubaraq Lawal's avatar: a scarlet terminal cursor inside a slowly marching forest-green dashed ring" />
     </td>
     <td width="72%" align="left">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=640&lines=terminal%3A~%24+whoami;Mubaraq+~+software+engineering+%40+babcock;java+%2B+javascript+%2B+python;status%3A+learning+in+public" alt="Typing terminal lines: whoami, Mubaraq software engineering at Babcock, java javascript python, status learning in public" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F4F7F5&background=0B1220&center=true&vCenter=true&width=640&height=110&lines=terminal%3A~%24+whoami;Mubaraq+~+software+engineering+%40+babcock;java+%2B+javascript+%2B+python;status%3A+shipping+and+learning+in+public" alt="Typing terminal lines: whoami, Mubaraq software engineering at Babcock, java javascript python, status shipping and learning in public" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=posi946&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=posi946&color=14532D&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 <!-- ══ whoami ══ -->
 ## // whoami
 
-<img src="assets/neofetch.svg" width="100%" alt="Terminal-style profile card: ASCII art beside system info - macOS, Software Engineering student at Babcock University, CCNA certified, JavaScript, Java, Python, 6 repos, 16+ commits" />
+<img src="assets/neofetch.svg?v=2" width="100%" alt="Terminal-style profile card: ASCII art beside system info - macOS, Software Engineering student at Babcock University, CCNA certified, JavaScript, Java, Python" />
 
-I'm at the beginning of my journey as a developer. No big claims, no shipped products yet, just consistent daily work and honest progress. Every repo here is a snapshot of where I am, not where I want to be. If you're on a similar path, follow along.
+I'm early in this, and I'd rather show the work than describe it. Everything here is something I actually built and can explain: small tools, coursework pushed past the brief, and one project shipped end to end. The commits are the résumé.
+
+<!-- ══ featured ══ -->
+## // featured
+
+**[ScamShield](https://posi946.github.io/scamshield/)** · [source](https://github.com/posi946/scamshield)
+
+A free, private scam-message checker. Paste a suspicious text, email, or DM and it names the warning signs, scores the risk from 0 to 100, and says what to do next. Plain HTML, CSS, and JavaScript — no account, no server, no analytics, nothing you paste leaves the tab. Installable and works offline.
 
 <!-- ══ stack ══ -->
 ## // tech_stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/JavaScript-14532D?style=for-the-badge&logo=javascript&logoColor=F4F7F5" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-0B1220?style=for-the-badge&logo=openjdk&logoColor=F4F7F5" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-14532D?style=for-the-badge&logo=python&logoColor=F4F7F5" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-0B1220?style=for-the-badge&logo=html5&logoColor=F4F7F5" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS-14532D?style=for-the-badge&logo=css3&logoColor=F4F7F5" alt="CSS" />
+  <img src="https://img.shields.io/badge/Git-0B1220?style=for-the-badge&logo=git&logoColor=F4F7F5" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-14532D?style=for-the-badge&logo=github&logoColor=F4F7F5" alt="GitHub" />
 </p>
 
 <!-- ══ certifications ══ -->
 ## // certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CCNA-Cisco_Certified_Network_Associate-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA - Cisco Certified Network Associate" />
+  <img src="https://img.shields.io/badge/CCNA-Cisco_Certified_Network_Associate-D62828?style=for-the-badge&logo=cisco&logoColor=F4F7F5" alt="CCNA - Cisco Certified Network Associate" />
 </p>
 
 <!-- ══ right now ══ -->
@@ -74,4 +81,4 @@ I'm at the beginning of my journey as a developer. No big claims, no shipped pro
   <em>"I keep trying to improve everyday, and I do."</em>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:06b6d4,0.5:0891b2,1:0d1117" alt="" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:2D6A4F,0.55:14532D,1:0B1220" alt="" width="100%" />
